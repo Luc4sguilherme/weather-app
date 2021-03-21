@@ -7,7 +7,7 @@ This project was developed with the following technologies:
 -  [React Navigation](https://reactnavigation.org/)
 -  [Axios](https://github.com/axios/axios)
 -  [Moment.js](https://momentjs.com/)
--  [OpenWeather](https://openweathermap.org/api)
+-  [OpenWeather][openweather]
 -  [VS Code][vc] with [EditorConfig][vceditconfig] and [ESLint][vceslint]
 
 ## :information_source: How To Use
@@ -23,6 +23,12 @@ $ cd weather-app
 
 # Install dependencies
 $ yarn install
+
+# Create your API key in OpenWeather
+
+# Create a .env.development file by following the .env.example file
+
+# Configure your API key in .env.development file
 
 # Run the app (iOS)
 $ yarn ios
@@ -47,6 +53,7 @@ This project is [MIT](https://github.com/Luc4sguilherme/weather-app/blob/master/
 ---
 
 [nodejs]: https://nodejs.org/
+[openweather]: https://openweathermap.org/api/
 [expo]: https://expo.io/
 [git]: https://git-scm.com
 [yarn]: https://yarnpkg.com/
