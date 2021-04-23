@@ -30,7 +30,7 @@
     "react-native-web": "~0.13.12"
   },
   "devDependencies": {
-    "@babel/core": "~7.9.0",
+    "@babel/core": "~7.13.16",
     "babel-eslint": "^10.1.0",
     "babel-plugin-inline-dotenv": "^1.6.0",
     "babel-preset-expo": "~8.1.0",
